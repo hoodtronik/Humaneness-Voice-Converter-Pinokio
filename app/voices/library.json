@@ -1,0 +1,175 @@
+{
+  "license_note": "VCTK: Veaux, Yamagishi & MacDonald, CSTR VCTK Corpus 0.92, University of Edinburgh, CC BY 4.0. Trimmed to <=10 s, resampled to 24 kHz mono, peak-normalized. Names come from Humaneness Ears timbre scores relative to this set.",
+  "voices": [
+    {
+      "id": "vctk_p225",
+      "file": "library/vctk_p225.flac",
+      "gender": "Female",
+      "accent": "Southern English",
+      "seconds": 7.59,
+      "scores": {
+        "BRGT": 3.62,
+        "WARM": 3.28,
+        "ROUG": 1.05,
+        "SMTH": 3.87,
+        "R_CHST": 2.71,
+        "HARM": 4.03
+      },
+      "name": "Bright & rich",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p225 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p226",
+      "file": "library/vctk_p226.flac",
+      "gender": "Male",
+      "accent": "English, Surrey",
+      "seconds": 8.01,
+      "scores": {
+        "BRGT": 3.14,
+        "WARM": 3.83,
+        "ROUG": 1.82,
+        "SMTH": 4.0,
+        "R_CHST": 3.87,
+        "HARM": 3.77
+      },
+      "name": "Warm & chest-resonant",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p226 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p227",
+      "file": "library/vctk_p227.flac",
+      "gender": "Male",
+      "accent": "English, Cumbria",
+      "seconds": 8.44,
+      "scores": {
+        "BRGT": 3.12,
+        "WARM": 3.73,
+        "ROUG": 2.0,
+        "SMTH": 3.74,
+        "R_CHST": 3.74,
+        "HARM": 3.73
+      },
+      "name": "Textured & chest-resonant",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p227 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p228",
+      "file": "library/vctk_p228.flac",
+      "gender": "Female",
+      "accent": "Southern English",
+      "seconds": 9.35,
+      "scores": {
+        "BRGT": 3.59,
+        "WARM": 3.14,
+        "ROUG": 0.81,
+        "SMTH": 3.72,
+        "R_CHST": 1.93,
+        "HARM": 4.05
+      },
+      "name": "Bright & textured",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p228 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p229",
+      "file": "library/vctk_p229.flac",
+      "gender": "Female",
+      "accent": "Southern English",
+      "seconds": 6.89,
+      "scores": {
+        "BRGT": 3.63,
+        "WARM": 3.28,
+        "ROUG": 0.73,
+        "SMTH": 4.02,
+        "R_CHST": 2.19,
+        "HARM": 4.23
+      },
+      "name": "Smooth & rich",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p229 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p232",
+      "file": "library/vctk_p232.flac",
+      "gender": "Male",
+      "accent": "Southern English",
+      "seconds": 7.51,
+      "scores": {
+        "BRGT": 3.29,
+        "WARM": 3.6,
+        "ROUG": 1.44,
+        "SMTH": 4.04,
+        "R_CHST": 3.65,
+        "HARM": 4.02
+      },
+      "name": "Smooth & chest-resonant",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p232 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p237",
+      "file": "library/vctk_p237.flac",
+      "gender": "Male",
+      "accent": "Scottish, Fife",
+      "seconds": 7.17,
+      "scores": {
+        "BRGT": 3.05,
+        "WARM": 3.68,
+        "ROUG": 1.66,
+        "SMTH": 3.86,
+        "R_CHST": 3.67,
+        "HARM": 3.86
+      },
+      "name": "Chest-resonant & warm",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p237 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p238",
+      "file": "library/vctk_p238.flac",
+      "gender": "Female",
+      "accent": "Northern Irish, Belfast",
+      "seconds": 8.32,
+      "scores": {
+        "BRGT": 3.97,
+        "WARM": 3.17,
+        "ROUG": 0.51,
+        "SMTH": 4.03,
+        "R_CHST": 1.96,
+        "HARM": 4.23
+      },
+      "name": "Bright & smooth",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p238 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p245",
+      "file": "library/vctk_p245.flac",
+      "gender": "Male",
+      "accent": "Irish, Dublin",
+      "seconds": 8.75,
+      "scores": {
+        "BRGT": 2.92,
+        "WARM": 3.82,
+        "ROUG": 2.08,
+        "SMTH": 3.73,
+        "R_CHST": 3.69,
+        "HARM": 3.56
+      },
+      "name": "Textured & warm",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p245 (CC BY 4.0)"
+    },
+    {
+      "id": "vctk_p248",
+      "file": "library/vctk_p248.flac",
+      "gender": "Female",
+      "accent": "Indian",
+      "seconds": 9.38,
+      "scores": {
+        "BRGT": 3.92,
+        "WARM": 3.11,
+        "ROUG": 0.7,
+        "SMTH": 3.75,
+        "R_CHST": 1.99,
+        "HARM": 4.31
+      },
+      "name": "Rich & bright",
+      "credit": "CSTR VCTK Corpus 0.92, speaker p248 (CC BY 4.0)"
+    }
+  ]
+}

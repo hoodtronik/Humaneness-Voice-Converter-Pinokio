@@ -1,0 +1,11 @@
+# Everything the installer creates/downloads — never commit these
+app/env/
+app/humaneness-vc/
+app/outputs/
+# Your own voice presets (e.g. a film's cast) stay on your machine
+app/voices/custom/
+logs/
+cache/
+*.log
+__pycache__/
+*.pyc

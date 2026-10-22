@@ -1,0 +1,5 @@
+{
+  "title": "Humaneness Voice Converter",
+  "description": "LAION's Chatterbox-based voice converter: give it a source recording and a short clip of a consenting target speaker, and it says the source content in the target voice while keeping the source performance and emotion. Gradio GUI, CUDA GPU, ~1.5 GB weights.",
+  "icon": "icon.png"
+}
